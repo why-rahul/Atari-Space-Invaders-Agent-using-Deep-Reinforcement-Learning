@@ -72,11 +72,6 @@ The network minimizes the difference between predicted and target Q-values using
 
 The agent learned basic movement and shooting behavior through interaction with the environment.
 
-Training reward curve:
-
-![Reward Curve](reward_graph.png)
-
-The reward curve shows learning progress with high variance, which is common in reinforcement learning environments.
 
 ---
 
